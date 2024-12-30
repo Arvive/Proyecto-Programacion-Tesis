@@ -1,0 +1,5 @@
+1723330095789;Marvin Salas Molina;Nutrición;San José
+1723332629092;Mauricio Rivera Chaves ;Oftalmología;San Pedro
+1723332893439;Sofia Viquez Varela;Medico General;Heredia
+1723594120843;Marisol Mora Vega;Cardiología;San José
+1723597460833;Mario Rojas Perez;Medico General;Heredia

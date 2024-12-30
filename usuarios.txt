@@ -1,0 +1,4 @@
+111;Ariana ;Vives Vega;84106499;avives@;123
+11111;Mauricio;Solano Salazar;88109080;msolanogmai.com;123
+1234567;Ariana;Vives;888;ariana@.com;123
+12345;ariana;vives2;1234;a@.com;123
